@@ -17,22 +17,22 @@ One program uses a LinkedList, and the other uses a Stack data structure to achi
 - javac SortLinkedList.java
 - javac SortedStack.java
 
-- To run the programs
+### To run the programs
 - java SortLinkedList
 - java SortedStack
 
-- To generate javadoc
+### To generate javadoc
 - javadoc -author -version -d doc SortLinkedList.java
 - javadoc -author -version -d doc SortedStack.java
 
-- To load javadoc page
+### To load javadoc page
 - Within doc directory path, click on SortLinkedList.htlm
 - Within doc directory path, click on SortedStack.htlm
   
 # How to use the SortLinkedList program
 - To use SortLinkedList follow the on-screen instructions to enter a list of integers.
 - To exit the program, enter a non-integer value.
-- Example:
+### Example:
 - Enter an integer (or a non-integer value to exit): 5
 - Enter an integer (or a non-integer value to exit): 2
 - Enter an integer (or a non-integer value to exit): 8
@@ -47,7 +47,7 @@ One program uses a LinkedList, and the other uses a Stack data structure to achi
 # How to use the SortedStack program
 - To use SortedStack follow the on-screen instructions to enter a list of integers.
 - To exit the program, enter a non-integer value.
-- Example:
+### Example:
 - Enter an integer (or a non-integer value to exit): 6
 - Enter an integer (or a non-integer value to exit): 3
 - Enter an integer (or a non-integer value to exit): 9
