@@ -1,5 +1,5 @@
 # TorresJ06
-- Author: Jesus Torrs
+- Author: Jesus Torres
 - Project requisite for CSC6301 Software Design &amp; Documentation
 
 # Sorting Programs in Java
@@ -14,12 +14,12 @@ One program uses a LinkedList, and the other uses a Stack data structure to achi
 
 # How to run the program
 - To compile the programs
-- javac SortLinkedList.java
-   javac SortedStack.java
+ - javac SortLinkedList.java
+ - javac SortedStack.java
 
 - To run the programs
-- java SortLinkedList
-- java SortedStack
+ - java SortLinkedList
+ - java SortedStack
 
 - To generate javadoc
 - javadoc -author -version -d doc SortLinkedList.java
