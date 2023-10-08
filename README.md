@@ -1,6 +1,5 @@
 # TorresJ06
 - Author: Jesus Torres
-- Project requisite for CSC6301 Software Design &amp; Documentation
 
 # Sorting Programs in Java
 This repository contains two Java programs for sorting a list of integer numbers from the user's input. 
