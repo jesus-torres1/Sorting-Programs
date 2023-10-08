@@ -1,4 +1,4 @@
-# TorresJ06
+# Sorting-Programs
 - Author: Jesus Torres
 
 # Sorting Programs in Java
